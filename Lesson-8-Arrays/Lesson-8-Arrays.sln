@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Task1", "Task1\Task1.pyproj", "{0F0CE7CA-9D03-420F-A54D-A1A141C99D7B}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Task2", "Task2\Task2.pyproj", "{7E03B714-67C3-4630-B171-AD63AF6C0ED9}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Task3", "Task3\Task3.pyproj", "{F507ED3B-183C-4927-A801-B289C61EE5E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F0CE7CA-9D03-420F-A54D-A1A141C99D7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F0CE7CA-9D03-420F-A54D-A1A141C99D7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E03B714-67C3-4630-B171-AD63AF6C0ED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E03B714-67C3-4630-B171-AD63AF6C0ED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F507ED3B-183C-4927-A801-B289C61EE5E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F507ED3B-183C-4927-A801-B289C61EE5E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {251371F6-96C2-4E6E-A20F-98EE099CC5D8}
+	EndGlobalSection
+EndGlobal
